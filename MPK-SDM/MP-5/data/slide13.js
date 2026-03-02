@@ -1,0 +1,5 @@
+(function(){var loadHandler=window['sl_{60CE17F2-BEC4-42F6-923B-C6852D0DDF1F}'];loadHandler&&loadHandler(12, '<div id="spr0_840695"><div id="spr1_840695" class="kern slide"><img id="img3_840695" src="data/img5.png" width="960px" height="540px" alt="" style="left:0px;top:0px;"/><div id="spr3_840695" style="left:763.83px;top:25.475px;"><img id="img0_840695" src="data/img7.png" width="165.75" height="36.75" alt="A blue text on a black background\
+\
+Description automatically generated" style="left:-0.089px;top:-0.028px;"/></div><div id="spr4_840695" style="left:-1.583px;top:66.182px;"><img id="img1_840695" src="data/img8.png" width="67.5" height="66.75" alt="A blue and yellow squares on a black background\
+\
+Description automatically generated" style="left:-0.14px;top:0.126px;"/></div><div id="spr5_840695" style="top:496.874px;"><img id="img2_840695" src="data/img9.jpg" width="960" height="43.5" alt="Footer Revisi.jpg" style="left:0px;top:-0.14px;"/></div></div><div id="spr2_840695" class="kern slide"><div id="vd0_840695" style="left:127.2px;top:65.5px;"></div></div></div>', '{"s":[{"v":"video0"}]}');})();

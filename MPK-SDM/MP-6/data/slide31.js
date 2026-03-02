@@ -1,0 +1,5 @@
+(function(){var loadHandler=window['sl_{3C6AFE51-274B-42FA-8E58-C7F9AAFECA24}'];loadHandler&&loadHandler(30, '<div id="spr0_46e21e"><div id="spr1_46e21e" class="kern slide"><img id="img3_46e21e" src="data/img5.png" width="960px" height="540px" alt="" style="left:0px;top:0px;"/><div id="spr3_46e21e" style="left:763.83px;top:25.475px;"><img id="img0_46e21e" src="data/img7.png" width="165.75" height="36.75" alt="A blue text on a black background\
+\
+Description automatically generated" style="left:-0.089px;top:-0.028px;"/></div><div id="spr4_46e21e" style="top:496.874px;"><img id="img1_46e21e" src="data/img9.jpg" width="960" height="43.5" alt="Footer Revisi.jpg" style="left:0px;top:-0.14px;"/></div><div id="spr5_46e21e" style="left:-1.583px;top:66.182px;"><img id="img2_46e21e" src="data/img8.png" width="67.5" height="66.75" alt="A blue and yellow squares on a black background\
+\
+Description automatically generated" style="left:-0.14px;top:0.126px;"/></div></div><div id="spr2_46e21e" class="kern slide"><div id="vd0_46e21e" style="left:124.153px;top:69.836px;"></div></div></div>', '{"s":[{"v":"video1"}]}');})();
